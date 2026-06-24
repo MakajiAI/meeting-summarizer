@@ -1,0 +1,33 @@
+# Environment variables / API keys
+
+.env
+.env.*
+!.env.example
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+
+# Generated output files
+
+summary_*.txt
+result.txt
+empty.txt
+long-meeting.txt
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
