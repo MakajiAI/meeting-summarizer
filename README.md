@@ -326,22 +326,9 @@ Get-Content summary_sample-meeting.txt -Encoding UTF8
 
 このプロジェクトは、自分にとって最初のAI活用ポートフォリオ作品です。
 
----
-
-## 今後追加したい機能
-
-今後の改善案として、以下を検討しています。
-
-* 音声ファイルからの文字起こし対応
-* 要約テンプレートの切り替え
-* 複数AIモデルの比較
-* 長文議事録の分割要約
-* Markdown / HTML / PDF 出力
-* Google DocsやNotionへの出力
-* GUIデザインの改善
 
 ---
 
 ## ライセンス
 
-未定
+MITライセンス
