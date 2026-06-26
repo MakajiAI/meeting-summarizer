@@ -84,7 +84,7 @@ GUIにはPython標準ライブラリの `tkinter` を使用しています。
 ### 1. リポジトリを取得
 
 ```bash
-git clone <このリポジトリのURL>
+git clone git clone https://github.com/MakajiAI/meeting-summarizer.git
 cd meeting-summarizer
 ```
 
